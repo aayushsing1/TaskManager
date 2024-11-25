@@ -95,10 +95,9 @@ https://www.canva.com/design/DAGXe0DRpbQ/AgLw6On0hImh2E9OF3XhJQ/view?utm_content
  Technologies Used
    - Django: The main web framework used for building the app.
    - Google OAuth 2.0: For user authentication via Google login.
-   - SQLite: Default database used for storing user and task data.
-   - HTML/CSS/JavaScript: For frontend interface.
+   - PostgreSQL: Default database used for storing user and task data.
+   - HTML/CSS: For frontend interface.
    - Bootstrap: For responsive UI design (if used).
-
 
 
 Contributing
