@@ -2,6 +2,8 @@ Task Master Web App
 
 A simple Django-based task management web application that allows users to log in using their Google account and manage personal tasks. This app also provides an admin panel for managing OAuth credentials and inviting users.
 
+Deployed Version of Project -- https://taskmasterailabs.pythonanywhere.com/
+
 Click This Link for Images and References of this Django Web App.
 https://www.canva.com/design/DAGXe0DRpbQ/AgLw6On0hImh2E9OF3XhJQ/view?utm_content=DAGXe0DRpbQ&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
